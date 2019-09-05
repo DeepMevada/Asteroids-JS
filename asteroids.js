@@ -123,7 +123,7 @@ class Ship {
         for (let i = 0; i < 3; i++) {
             ctx.lineTo(this.x - this.radius * Math.cos(vertAngle * i + radians), this.y - this.radius * Math.sin(vertAngle * i + radians));
         }
-        ctx.lineto(this.noseX,this.noseY);
+        ctx.lineto(this.noseX * Math.cos(30),this.noseY * Math.sin(60);
         ctx.closePath();
         ctx.stroke();
     }
