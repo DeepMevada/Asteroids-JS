@@ -6,12 +6,11 @@ body{
     width: 100%;
     height: 100%;
     margin: auto;
-    padding: auto;
 }
 
 #my-canvas{
     width: 100%;
     height: 100%;
-    background: #000;
+    background: red;
     border: 1px solid #fff;
 }
