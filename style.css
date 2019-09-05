@@ -10,8 +10,8 @@ body{
 }
 
 #my-canvas{
-    width: 75%;
-    height: 75%;
+    width: 80%;
+    height: 80%;
     background: #000;
     border: 1px solid #fff;
 }
