@@ -20,7 +20,7 @@ function SetupCanvas() {
     ctx.fillRect(0, 0, canvas.width, canvas.height);
     ship = new Ship();
 
-    for (let i = 0; i < 8; i++) {
+    for (let i = 0; i < 5; i++) {
         asteroids.push(new Asteroid());
     }
 
