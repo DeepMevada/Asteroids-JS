@@ -1,7 +1,7 @@
 let canvas;
 let ctx;
-let canvasWidth = window.width;
-let canvasHeight = window.height;
+let canvasWidth = 1270;
+let canvasHeight = 600;
 let keys = [];
 let ship;
 let bullets = [];
