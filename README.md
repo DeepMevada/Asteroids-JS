@@ -4,5 +4,6 @@ Asteroids(Game) using only Javascript.
 
 ## Screenshots:
 
--![](Screenshots_AS/as1.png)
+-1![](Screenshots_AS/as1.png)
+-2![](Screenshots_AS/as2.png)
 
